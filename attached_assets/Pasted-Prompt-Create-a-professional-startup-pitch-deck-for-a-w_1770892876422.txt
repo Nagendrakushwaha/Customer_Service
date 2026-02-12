@@ -1,0 +1,161 @@
+Prompt:
+
+Create a professional startup pitch deck for a website called “Customer Service”, an AI-powered customer support solution for small businesses. The slides should be detailed, professional, and investor-ready, following this structure:
+
+Slide 1: Cover Slide
+
+Title: Customer Service AI
+
+Tagline: “Your 24/7 AI Customer Support Assistant for Small Businesses”
+
+Location: Bangalore, India
+
+Email: founder@customerservice.ai
+
+Mobile: +91-XXXXXXXXXX
+
+URL: www.customerservice.ai
+
+Logo idea: Modern AI + headset/chat bubble + smiling customer visual
+
+Slide 2: The Team
+
+CEO & Founder: [Your Name] – Product & Strategy (50%)
+
+CTO & Co-Founder: [Co-Founder Name] – AI & Tech (40%)
+
+Growth Lead: (Founding Team – 10% ESOP planned)
+
+Include backgrounds, expertise in AI, SaaS, customer experience, marketing, local business outreach, and why the team is suited for this product.
+
+Slide 3: The Problem
+
+Small businesses struggle with:
+
+Missed customer inquiries
+
+Slow response time on WhatsApp, Instagram, and email
+
+High support costs
+
+Current solutions: Manual staff, generic chatbots, or no system
+
+Result: Lost revenue, poor customer satisfaction, low retention
+
+Slide 4: Product / Technology Overview
+
+Product: AI-powered customer service assistant
+
+Features:
+
+Auto-reply on WhatsApp, Instagram, and email
+
+Instant ticket creation
+
+Follow-ups & reminders
+
+Knowledge base & FAQ automation
+
+Multi-language support
+
+Unique Selling Points:
+
+24/7 customer support without hiring staff
+
+Learns business tone & policies instantly
+
+Improves customer satisfaction & retention
+
+Slide 5: Business Model
+
+SaaS subscription for small businesses
+
+Pricing:
+
+Basic Plan – ₹999/month
+
+Pro Plan – ₹2,499/month
+
+Premium – Custom enterprise solutions
+
+Revenue comes from monthly subscriptions, no setup fees
+
+Slide 6: Market Opportunity
+
+Target Market – India first: 6+ million small businesses
+
+Digitally active SMBs: ~600,000 potential customers
+
+Market potential: ₹7,200 Crore/year
+
+Phase 2: US & Canada expansion – higher ARPU
+
+Slide 7: Traction / MVP
+
+Beta version live on Replit
+
+20 pilot businesses onboarded
+
+Positive feedback: faster response, higher customer satisfaction
+
+Upcoming features: Payment integration, analytics dashboard, AI sentiment analysis
+
+Slide 8: Competitive Landscape
+
+Current Alternatives: Generic chatbots, CRMs, manual support
+
+Why We Win: AI trained for real customer support, affordable, easy onboarding, SMB-focused, multi-channel support
+
+Slide 9: Financials & Projections (3-Year)
+
+Year 1: MVP & product refinement, initial pilot revenue
+
+Year 2: Scale, break-even possible
+
+Year 3: Strong recurring revenue, expansion to multiple cities, scalable SaaS margins
+
+Include cost structure: salaries, marketing, API/server costs
+
+Slide 10: Funding & Use of Funds
+
+Raising: ₹1.5 Crore Seed Round
+
+Runway: 18 months
+
+Allocation:
+
+40% Product Development
+
+35% Sales & Marketing
+
+15% AI Optimization
+
+10% Operations
+
+Milestones: 1,000 paying customers, positive unit economics, ARR ₹1+ Crore
+
+Slide 11: Equity Structure
+
+Founder (CEO): 50%
+
+Co-Founder (CTO): 40%
+
+ESOP: 10%
+
+Bootstrapped with ₹5–10 Lakh
+
+Slide 12: Exit Options & Vision
+
+Potential Acquirers: Zoho, Freshworks, HubSpot, Shopify, Razorpay, Meta SMB tools
+
+Why: Access to SMBs, AI technology, recurring revenue
+
+Vision: IPO possible long-term, acquisition likely at early stage
+
+Additional instructions:
+
+Include slide visuals like dashboards, AI assistant interface, chat bubbles, happy customers, graphs for traction & financials.
+
+Tone: Professional, clear, visually appealing, investor-ready.
+
+Use Replit as the development platform for MVP screenshots where possible.

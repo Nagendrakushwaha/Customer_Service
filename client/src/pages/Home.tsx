@@ -9,7 +9,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { useCreateLead } from "@/hooks/use-leads";
 import { 
   Zap, Clock, TrendingUp, Users, Shield, MessageCircle, 
-  ArrowRight, CheckCircle2, ChevronDown 
+  ArrowRight, CheckCircle2, ChevronDown, User 
 } from "lucide-react";
 import { motion } from "framer-motion";
 import { useState } from "react";
